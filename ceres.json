@@ -1,0 +1,21 @@
+{
+ "corpo": "ceres",
+ "formato": "webp",
+ "passo": [
+  16.0,
+  8.0,
+  4.0,
+  2.0,
+  1.0,
+  1.0
+ ],
+ "zGlobal": 5,
+ "zMax": 5,
+ "credito": "Dawn FC HAMO DTM 137 m (NASA/JPL-Caltech/UCLA/MPS/DLR/IDA), mosaico do USGS Astrogeology",
+ "mapaGlobal": [
+  "relevo/ceres_2048.png",
+  -27.920000076293945,
+  17.0
+ ],
+ "regioes": []
+}

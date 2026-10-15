@@ -1,0 +1,20 @@
+{
+ "corpo": "tita",
+ "formato": "webp",
+ "passo": [
+  64.0,
+  32.0,
+  16.0,
+  8.0,
+  4.0
+ ],
+ "zGlobal": 4,
+ "zMax": 4,
+ "credito": "Cassini RADAR: altimetria, SARTopo e estéreo, interpolados (Corlies et al. 2017, Cornell, CC0)",
+ "mapaGlobal": [
+  "relevo/tita_2048.png",
+  -1.659999966621399,
+  1.1399999856948853
+ ],
+ "regioes": []
+}
