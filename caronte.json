@@ -1,0 +1,21 @@
+{
+ "corpo": "caronte",
+ "formato": "webp",
+ "passo": [
+  16.0,
+  8.0,
+  4.0,
+  2.0,
+  1.0,
+  1.0
+ ],
+ "zGlobal": 5,
+ "zMax": 5,
+ "credito": "New Horizons LORRI e MVIC, 300 m (NASA/JHUAPL/SwRI), mosaico do USGS Astrogeology",
+ "mapaGlobal": [
+  "relevo/caronte_2048.png",
+  -13.90999984741211,
+  6.75
+ ],
+ "regioes": []
+}

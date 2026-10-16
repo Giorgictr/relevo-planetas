@@ -1,4 +1,4 @@
-# Relevo da Lua, de Marte, de Mercúrio, de Ceres, de Vesta e de Titã em ladrilhos
+# Relevo da Lua, de Marte, de Mercúrio, de Ceres, de Vesta, de Titã, de Plutão e de Caronte em ladrilhos
 
 Dados de relevo usados pela [Viagem pelo Espaço](https://giorgictr.github.io/viagem-pelo-espaco/), gerados por
 `dados/gerar_relevo.py` daquele repositório a partir dos mosaicos globais do USGS Astrogeology Science Center
@@ -11,6 +11,8 @@ Dados de relevo usados pela [Viagem pelo Espaço](https://giorgictr.github.io/vi
 - **Vesta**: Dawn FC HAMO DTM 93 m (NASA/JPL-Caltech/UCLA/MPS/DLR/IDA). A altura inclui a forma achatada do corpo.
 - **Titã**: Corlies et al. (2017), relevo da Cassini RADAR (altimetria, SARTopo e estéreo) interpolado, com o detalhe
   das faixas do radar somado (Cornell eCommons, doi:10.7298/m4dv-gv95, CC0); montado por `dados/preparar_tita.py`.
+- **Plutão** e **Caronte**: New Horizons LORRI e MVIC, 300 m (NASA/JHUAPL/SwRI). Só o hemisfério visto de perto tem
+  relevo; o resto foi preenchido liso (difusão da média em volta).
 
 Esquema de ladrilhos igual ao do NASA Trek: no nível z há 2^(z+1) × 2^z ladrilhos de 180/2^z graus.
 Cada ladrilho tem 259 × 259 amostras (257 nos cantos da grade e uma de borda de cada lado), em WebP sem perdas:
